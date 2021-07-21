@@ -1,0 +1,39 @@
+body{
+    background-color: peachpuff;
+    align-items: center;
+    justify-content: center;
+    display :flex;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+    font-weight: 700;
+
+}
+h2{
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    margin : 0 0;
+}
+button{
+    justify-content: center;
+    align-items: center;
+    color : white;
+    background-color: brown;
+    padding: 10px 10px;
+    font-weight: 700;
+    margin:10px 10px;
+
+}
+#save-btn{
+    background-color: green;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+.ent{
+    display:flex;
+    flex-direction: row;
+}
